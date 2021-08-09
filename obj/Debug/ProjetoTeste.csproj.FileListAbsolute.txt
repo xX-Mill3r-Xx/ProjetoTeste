@@ -1,0 +1,7 @@
+C:\Users\mill3\OneDrive\Área de Trabalho\ProjetoTeste\bin\Debug\ProjetoTeste.exe.config
+C:\Users\mill3\OneDrive\Área de Trabalho\ProjetoTeste\bin\Debug\ProjetoTeste.exe
+C:\Users\mill3\OneDrive\Área de Trabalho\ProjetoTeste\bin\Debug\ProjetoTeste.pdb
+C:\Users\mill3\OneDrive\Área de Trabalho\ProjetoTeste\obj\Debug\ProjetoTeste.csproj.AssemblyReference.cache
+C:\Users\mill3\OneDrive\Área de Trabalho\ProjetoTeste\obj\Debug\ProjetoTeste.csproj.CoreCompileInputs.cache
+C:\Users\mill3\OneDrive\Área de Trabalho\ProjetoTeste\obj\Debug\ProjetoTeste.exe
+C:\Users\mill3\OneDrive\Área de Trabalho\ProjetoTeste\obj\Debug\ProjetoTeste.pdb
